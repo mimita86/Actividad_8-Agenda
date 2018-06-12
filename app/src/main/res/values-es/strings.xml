@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Actividad_8</string>
+
+    <string name="errror_message">Contacto no encontrado</string>
+</resources>
